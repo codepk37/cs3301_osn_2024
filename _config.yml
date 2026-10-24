@@ -18,7 +18,7 @@ tagline: Course website of CS3.301 Operating Systems and Networks
 description: This is the website of the course offered by IIIT Hyderabad
 author: Karthik Vaidhyanathann
 baseurl: # the subpath of your site, e.g. /blog
-url: "https://karthikv1392.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codepk37.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 favicon_ico: "/assets/images/favicon.png"
 favitype: "image/png"
